@@ -28,3 +28,5 @@ switch (new Date().getDay()){
         break;        
 }
 console.log( "Astazi este " + day + "!");
+
+//Acesta a fost exercitiul
