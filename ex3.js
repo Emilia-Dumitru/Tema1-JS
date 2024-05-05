@@ -30,3 +30,4 @@ switch (new Date().getDay()){
 console.log( "Astazi este " + day + "!");
 
 //Acesta a fost exercitiul
+//Multumesc pentru atentie!
