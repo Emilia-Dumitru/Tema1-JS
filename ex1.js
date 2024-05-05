@@ -1,5 +1,5 @@
 //How to check if a number is divisible by 10
-//Methot 1
+//Method 1
 
 function divisiblenumber (number, a) {
     if (number % a === 0) {
